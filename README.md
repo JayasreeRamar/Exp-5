@@ -23,12 +23,13 @@ Create the following diagrams in StarUML:
 <img width="865" height="565" alt="Screenshot 2025-11-04 112523" src="https://github.com/user-attachments/assets/de0c661a-06f3-4665-8e2b-61df698738ec" />
 
 2. Class Diagram:
-<img width="942" height="748" alt="Screenshot 2025-11-04 112614" src="https://github.com/user-attachments/assets/ed940a4d-f9e2-4c64-b54e-e7b2a2255cdf" />
+<img width="936" height="793" alt="Screenshot 2025-11-06 084704" src="https://github.com/user-attachments/assets/8a2d8381-0557-435a-b6a9-017fbc8d1692" />
 
 
 3. Activity Diagram:
 
-<img width="1467" height="697" alt="Screenshot 2025-11-04 112507" src="https://github.com/user-attachments/assets/0668bb33-6f22-4d47-8532-1fdca0122cbf" />
+<img width="1139" height="697" alt="Screenshot 2025-11-06 084438" src="https://github.com/user-attachments/assets/87d8e1ef-211d-45e6-9eef-0dffacc098e5" />
+
 
 
 4. Package Diagram:
