@@ -2,19 +2,7 @@
 # AIM:
 To draw the uml diagram for STUDENT ENROLLMENT SYSTEM
 # SRS (Procedure):
-Create the following diagrams in StarUML:
-
-◉ Use Case Diagram
-
-◉ Class Diagram
-
-◉ Activity Diagram
-
-◉ Package Diagram
-
-◉ Communication Diagram
-
-◉ Sequence Diagram
+To create Student Enrollment System software that will meet the needs of the applicant and help them with student registration, course enrollment, modification in the database, and cancellation of registered courses or enrollment records.
 
 # DIAGRAMS:
 
